@@ -1,0 +1,52 @@
+/* pages/Login/Login.wxss */
+page {
+    height: 100%;
+    background-color: wheat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.imageShow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50rpx;
+    padding-bottom: 50rpx;
+    height: 30%;
+    width: 80%;
+}
+
+.inputView {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 20rpx;
+    padding-bottom: 20rpx;
+    width: 100%;
+}
+
+.inputText {
+    padding-left: 40rpx;
+    width: 30%;
+}
+
+.inputBox {
+    background-color: white;
+    width: 60%;
+}
+
+.btnView {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 20rpx;
+    padding-bottom: 20rpx;
+    height: 30%;
+}
+
+.btn {
+    background-color: green;
+}

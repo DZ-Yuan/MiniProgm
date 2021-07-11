@@ -1,0 +1,7 @@
+/* pages/deployFunctions/deployFunctions.wxss */
+
+@import "../../../style/Build_in/guide.wxss";
+
+.black {
+  color: black;
+}

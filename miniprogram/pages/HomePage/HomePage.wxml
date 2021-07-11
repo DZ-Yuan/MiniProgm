@@ -1,0 +1,21 @@
+<!--pages/index/index.wxml-->
+<scroll-view scroll-y="true" class="scrollContainer">
+    <view class="container">
+        <text>This is HomePage of Order System</text>
+
+        <view class="imageRoll">
+            <view style="text-align: center; background-color:white; height:100%; width:100%;">
+                <!-- <text style="display: block">IMAGE</text> -->
+            </view>
+        </view>
+
+        <view class="context">
+            <view class="optionBox">
+            </view>
+
+            <view class="mainContext">
+            </view>
+        </view>
+
+    </view>
+</scroll-view>

@@ -1,0 +1,7 @@
+/* pages/chooseLib/chooseLib.wxss */
+
+@import "../../../style/Build_in/guide.wxss";
+
+.black {
+    color: black;
+}

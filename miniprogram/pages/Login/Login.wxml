@@ -1,0 +1,26 @@
+<!--pages/Login/Login.wxml-->
+<view class="container">
+    <text>This is Login Page of Order System</text>
+
+    <view class="imageShow">
+        <view style="text-align: center; background-color:white; height:100%; width:100%;">
+            <!-- <text style="display: block">IMAGE</text> -->
+        </view>
+    </view>
+
+    <view class="inputView">
+        <text class="inputText">Account</text>
+        <input class="inputBox" type="text" name="account" placeholder="  Input Your Account " />
+    </view>
+
+    <view class="inputView">
+        <text class="inputText">Password</text>
+        <input class="inputBox" type="number" name="password" placeholder="  Input Your Password " />
+    </view>
+
+    <view class="btnView">
+        <button class="btn">Login</button>
+        <button class="btn">Register</button>
+    </view>
+
+</view>

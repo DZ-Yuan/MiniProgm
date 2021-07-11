@@ -1,0 +1,49 @@
+/* pages/index/index.wxss */
+page {
+    height: 100%;
+    background-color: wheat;
+}
+
+.scrollContainer {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 60rpx;
+    height: 200%;
+}
+
+.imageRoll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30rpx;
+    padding-bottom: 60rpx;
+    height: 30%;
+    width: 80%;
+}
+
+.context {
+    display: flex;
+    justify-content: flex-start;
+    background-color: coral;
+    height: 200%;
+    width: 95%;
+}
+
+.optionBox {
+    display: flex;
+    background-color: pink;
+    height: 100%;
+    width: 30%;
+}
+
+.mainContext {
+    display: flex;
+    background-color: blueviolet;
+    height: 100%;
+    width: 70%;
+}

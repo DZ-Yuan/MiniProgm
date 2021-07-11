@@ -1,0 +1,3 @@
+/* miniprogram/pages/openapi/callback/callback.wxss */
+
+@import "../../../../style/Build_in/guide.wxss";
